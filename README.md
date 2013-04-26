@@ -1,1 +1,1 @@
-Webste on ruby on rails
+Website on ruby on rails
